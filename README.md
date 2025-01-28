@@ -21,4 +21,4 @@ Template starter Laravel untuk memulai proyek dengan cepat.
 ## Instalasi
 Clone repo:
    ```bash
-   git clone https://github.com/username/laravel-starter-template.git
+   git clone https://github.com/suffjasteb/laravel-base-project.git
