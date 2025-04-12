@@ -9,10 +9,10 @@ Template starter Laravel untuk memulai proyek dengan cepat.
 ---
 
 ##  Fitur
-- **Autentikasi bawaan**: Login, Register, Reset Password.
+- **Autentikasi bawaan**: Login, Register, Reset Password
 - **Role Management**: Menggunakan Spatie Permission.
 - **API Ready**: Struktur REST API siap pakai.
-- **Bootstrap + Vite**: Desain modern dan responsif.
+- **Tailwind CSS + Vite**: Desain modern, ringan, dan responsif.
 - **Seeder & Factory**: Data dummy untuk testing cepat.
 - Struktur folder yang clean dan scalable.
 
